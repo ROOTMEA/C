@@ -14,7 +14,7 @@ int main()
     ftpr=fopen(file_name,"a");
     fclose(ftpr);
 
-    //Appened the text in file
+    //Writing to File
     fopen(file_name,"a");
     char text[100];
     printf("Enter the text:");
